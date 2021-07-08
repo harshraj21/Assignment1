@@ -30,4 +30,6 @@
 
 **Screenshots-**
 <img src="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot1.png"
-     alt="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot1.png"/>
+     alt="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot1.png" 
+     width="400" 
+     height="500"/>
