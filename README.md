@@ -26,7 +26,8 @@
 - <a href="https://proxyimdb.herokuapp.com/">Heroku</a>
 - <a href="http://breezing.me:8000">Self hosted</a>
 > endpoint:  /movie | 
-> data body:  application/json
+> data body:  application/json | 
+> method: POST
 
 **Screenshots-**
 <br />
