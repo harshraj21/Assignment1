@@ -25,7 +25,7 @@
 ###### The Proxy server deployed are given below
 - <a href="https://proxyimdb.herokuapp.com/">Heroku</a>
 - <a href="http://breezing.me:8000">Self hosted</a>
-> endpoint:  /movie
+> endpoint:  /movie | 
 > data body:  application/json
 
 **Screenshots-**
