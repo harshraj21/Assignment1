@@ -46,5 +46,5 @@
 
 **Demo-**
 <br />
-- <a href="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenrecord.mp4">Github</a>
+- <a href="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenrecord.mp4">Video</a>
 - <a href="https://drive.google.com/file/d/1Us0Iwq6--pRQS9qg-bB0rPQAtTA82lGj/view?usp=sharing">Alternate</a>
