@@ -29,7 +29,16 @@
 > data body:  application/json
 
 **Screenshots-**
+<br />
 <img src="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot1.png"
      alt="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot1.png" 
+     width="300" 
+     height="600"/>
+<img src="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot2.png"
+     alt="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot2.png" 
+     width="300" 
+     height="600"/>
+<img src="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot3.png"
+     alt="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot3.png" 
      width="300" 
      height="600"/>
