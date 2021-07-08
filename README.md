@@ -1,4 +1,4 @@
-# Flutter Assignment 1
+# Flutter Assignment 1 (Movie recommendation by name)
 
 ### Project using a custom API endpint proxied from the origional to extract relevant data from the site
 #### Deployed using Flask (Thus the server is slow a bit but will be fixed later)
