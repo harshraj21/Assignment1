@@ -31,5 +31,5 @@
 **Screenshots-**
 <img src="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot1.png"
      alt="https://raw.githubusercontent.com/harshraj21/Assignment1/main/screenshot1.png" 
-     width="400" 
-     height="500"/>
+     width="300" 
+     height="600"/>
